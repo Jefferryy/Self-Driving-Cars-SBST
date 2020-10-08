@@ -1,0 +1,17 @@
+ast-toolbox==2020.6.1.dev1
+akro==0.0.6
+box2d.py==2.3.8
+bsddb3==6.2.7
+depq==1.5.5
+dowel==0.0.2
+fire==0.3.1
+future==0.18.2
+garage==2019.10.1
+gast==0.2.2
+gym==0.12.4
+numpy==1.19.1
+pyprind==2.11.2
+pydot==1.4.1
+cached-property==1.5.1
+cma==2.7.0
+compress-pickle==1.2.0

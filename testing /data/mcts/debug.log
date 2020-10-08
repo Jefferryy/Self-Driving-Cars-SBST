@@ -1,0 +1,2781 @@
+2020-09-30 22:59:06 | [mcts]  
+--------  -
+StepNum   2
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 22:59:06 | [mcts]  
+--------  -
+StepNum   4
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 22:59:06 | [mcts]  
+--------  -
+StepNum   6
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 22:59:06 | [mcts]  
+--------  -
+StepNum   8
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 22:59:06 | [mcts]  
+--------  --
+StepNum   10
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 22:59:06 | [mcts]  
+--------  --
+StepNum   12
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  -
+StepNum   2
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:00:24 | [mcts]  
+--------  -
+StepNum   4
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:00:24 | [mcts]  
+--------  -
+StepNum   6
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:00:24 | [mcts]  
+--------  -
+StepNum   8
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   10
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   12
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   14
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   16
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   18
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   20
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   22
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   24
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   26
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   28
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   30
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   32
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   34
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   36
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   38
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   40
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   42
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   44
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   46
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:24 | [mcts]  
+--------  --
+StepNum   48
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        50
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        52
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        54
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        56
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        58
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        60
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        62
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        64
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        66
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        68
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        70
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        72
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        74
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        76
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        78
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        80
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        82
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        84
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        86
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        88
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        90
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        92
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        94
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        96
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum        98
+reward 0  -147834
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       100
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       102
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       104
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       106
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       108
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       110
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       112
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       114
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       116
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       118
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       120
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       122
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       124
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       126
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       128
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       130
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       132
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       134
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -------
+StepNum       136
+reward 0  -147834
+reward 1  -152717
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       138
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       140
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       142
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       144
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       146
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       148
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       150
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       152
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       154
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       156
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       158
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       160
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       162
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       164
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       166
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       168
+reward 0     -463.794
+reward 1  -147834
+reward 2  -152717
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       170
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       172
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       174
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       176
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       178
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       180
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       182
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       184
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       186
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       188
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       190
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       192
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       194
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       196
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       198
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       200
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:00:25 | [mcts]  
+--------  -----------
+StepNum       202
+reward 0     -379.886
+reward 1     -463.794
+reward 2  -147834
+reward 3  -152717
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -
+StepNum   2
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:28:42 | [mcts]  
+--------  -
+StepNum   4
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:28:42 | [mcts]  
+--------  -
+StepNum   6
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:28:42 | [mcts]  
+--------  -
+StepNum   8
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   10
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   12
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   14
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   16
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   18
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   20
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   22
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   24
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   26
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   28
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   30
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   32
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   34
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   36
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --
+StepNum   38
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     40
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     42
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     44
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     46
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     48
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     50
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     52
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     54
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     56
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     58
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     60
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     62
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     64
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     66
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     68
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     70
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     72
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     74
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     76
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     78
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     80
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     82
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     84
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     86
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  --------
+StepNum     88
+reward 0  -443.037
+reward 1     0
+reward 2     0
+reward 3     0
+reward 4     0
+--------  --------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum        90
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum        92
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum        94
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum        96
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum        98
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       100
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       102
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       104
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       106
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       108
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       110
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       112
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       114
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       116
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       118
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       120
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       122
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       124
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       126
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       128
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       130
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       132
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       134
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       136
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       138
+reward 0     -443.037
+reward 1  -143610
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       140
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       142
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       144
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       146
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       148
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       150
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       152
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       154
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       156
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       158
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       160
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       162
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       164
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       166
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       168
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       170
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       172
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       174
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       176
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       178
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       180
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       182
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       184
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       186
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       188
+reward 0     -443.037
+reward 1  -143610
+reward 2  -149266
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       190
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       192
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       194
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       196
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       198
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       200
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:28:42 | [mcts]  
+--------  -----------
+StepNum       202
+reward 0     -443.037
+reward 1  -135346
+reward 2  -143610
+reward 3  -149266
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -
+StepNum   2
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:42:55 | [mcts]  
+--------  -
+StepNum   4
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:42:55 | [mcts]  
+--------  -
+StepNum   6
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:42:55 | [mcts]  
+--------  -
+StepNum   8
+reward 0  0
+reward 1  0
+reward 2  0
+reward 3  0
+reward 4  0
+--------  -
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   10
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   12
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   14
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   16
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   18
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   20
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   22
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   24
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   26
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   28
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   30
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   32
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   34
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   36
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   38
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   40
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   42
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   44
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   46
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  --
+StepNum   48
+reward 0   0
+reward 1   0
+reward 2   0
+reward 3   0
+reward 4   0
+--------  --
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        50
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        52
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        54
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        56
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        58
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        60
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        62
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        64
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        66
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        68
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        70
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        72
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        74
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        76
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        78
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        80
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        82
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        84
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -------
+StepNum        86
+reward 0  -148628
+reward 1        0
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        88
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        90
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        92
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        94
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        96
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum        98
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       100
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       102
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       104
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       106
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       108
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       110
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       112
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       114
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       116
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       118
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       120
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       122
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:55 | [mcts]  
+--------  -----------
+StepNum       124
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       126
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       128
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       130
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       132
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       134
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       136
+reward 0     -423.896
+reward 1  -148628
+reward 2        0
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       138
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       140
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       142
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       144
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       146
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       148
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       150
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       152
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       154
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       156
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       158
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       160
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       162
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       164
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       166
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       168
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       170
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       172
+reward 0     -423.896
+reward 1  -147449
+reward 2  -148628
+reward 3        0
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       174
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       176
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       178
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       180
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       182
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       184
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       186
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       188
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       190
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       192
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       194
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       196
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       198
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       200
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
+2020-09-30 23:42:56 | [mcts]  
+--------  -----------
+StepNum       202
+reward 0     -423.896
+reward 1     -429.064
+reward 2  -147449
+reward 3  -148628
+reward 4        0
+--------  -----------
